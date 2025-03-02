@@ -1,7 +1,7 @@
-# Library Management System
-This project is a Library Management System that allows for efficient management of a library's operations. It provides functionalities to track books, customers, employees, book issuance, and returns. The system, done using SQL, maintains a comprehensive database of books, their availability status, rental cost, and other relevant details. It also enables effective management of customers and employees associated with the library.
+# Library-Management-System:
+This project is a Library Management System that helps manage the operations of a library. It tracks books, customers, employees, book checkouts, and returns. Using SQL, the system keeps a detailed database of books, including their availability, rental cost, and other important details. It also helps manage the library's customers and employees effectively.
 
-## Database Setup
+## Database-Setup:
 Create a new database named "Library" to store the information.
 ## Features
 #### Book Management: Add, update, and remove books from the library's collection. Track book details such as title, category, rental price, availability status, author, and publisher.
